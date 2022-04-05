@@ -11,7 +11,7 @@
 :root {
   --container-full-width: 100%;
   --container-width: 1150px;
-  --primary-color: #011c38;
+  --primary-color: #012951;
 }
 
 body {
@@ -129,7 +129,7 @@ a:hover {
 
 .banner-connect input{
   width: 100%;
-  background-color: #1b334c;
+  background-color: rgba(0,0,0,0.2);
   color: white;
   padding: 8px;
   border: none;
